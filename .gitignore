@@ -97,3 +97,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+### OTHER
+.DS_Store
