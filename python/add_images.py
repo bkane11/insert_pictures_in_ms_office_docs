@@ -15,7 +15,7 @@ import re
 # cwd = os.getcwd()
 
 def addImageToSheet(worksheet, imagepath, cellno, text=None, insertOptions={}):
-  img = openpyxl.drawing.image.Image( imagepath, size=(500,500) )
+  img = openpyxl.drawing.image.Image( imagepath, size=(1000,1000) )
   # img = openpyxl.drawing.Image(os.path.join(cwd, imagename) )
   img.anchor(worksheet.cell('A'+str(cellno)))
   worksheet.add_image(img)
