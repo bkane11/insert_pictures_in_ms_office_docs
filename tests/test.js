@@ -32,9 +32,9 @@ Promise.all(
 .catch(err=>{throw err})
 
 function doTest(){
-  // addImages(xlsx, images)
-  //   .then(filepath=>console.log('success!  images added to:', filepath))
-  //   .catch(err=>console.log('error:', err))
+  addImages(xlsx, images)
+    .then(filepath=>console.log('success!  images added to:', filepath))
+    .catch(err=>console.log('error:', err))
   
   addImages(docx, images)
     .then(filepath=>console.log('success!  images added to:', filepath))
