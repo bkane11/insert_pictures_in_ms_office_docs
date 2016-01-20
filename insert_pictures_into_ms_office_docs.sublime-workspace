@@ -1,0 +1,1727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getF",
+				"getFields"
+			],
+			[
+				"Even",
+				"EventBroadcast"
+			],
+			[
+				"Eve",
+				"EventBroadCast"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"crea",
+				"createXL"
+			],
+			[
+				"copy",
+				"copyFile"
+			],
+			[
+				"xls",
+				"xlsx-outputs"
+			],
+			[
+				"xlsx",
+				"xlsx-templates"
+			],
+			[
+				"temp",
+				"templateData"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"for",
+				"form_data"
+			],
+			[
+				"pape",
+				"paper-line-color"
+			],
+			[
+				"uplo",
+				"uploadForm"
+			],
+			[
+				"attach",
+				"attachListeners"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"whit",
+				"white-space"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"Station",
+				"StationID"
+			],
+			[
+				"link",
+				"linkoptions"
+			],
+			[
+				"ma",
+				"makeBlock"
+			],
+			[
+				"he",
+				"headerOptions"
+			],
+			[
+				"lis",
+				"listOptions"
+			],
+			[
+				"rand",
+				"randnum"
+			],
+			[
+				"bu",
+				"buttonsPanel"
+			],
+			[
+				"updat",
+				"updateAnchorColor"
+			],
+			[
+				"in",
+				"incomplete"
+			],
+			[
+				"an",
+				"anchor"
+			],
+			[
+				"elemen",
+				"elementTag"
+			],
+			[
+				"gre",
+				"GreyColor"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ven",
+				"ventura-gp-static"
+			],
+			[
+				"ve",
+				"ventura-gp-static"
+			],
+			[
+				"gly",
+				"glyphicon-triangle-right"
+			],
+			[
+				"search",
+				"searchphrase"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"make",
+				"makeLabels"
+			],
+			[
+				"labl",
+				"labelhtml"
+			],
+			[
+				"legen",
+				"legendProp"
+			],
+			[
+				"layer",
+				"layerconfig"
+			],
+			[
+				"makeL",
+				"makeLegend"
+			],
+			[
+				"re",
+				"reverseY"
+			],
+			[
+				"rever",
+				"reverseY"
+			],
+			[
+				"rev",
+				"reverseX"
+			],
+			[
+				"xA",
+				"xAxisText"
+			],
+			[
+				"xX",
+				"XAxisText"
+			],
+			[
+				"y",
+				"yAxisText"
+			],
+			[
+				"Elec",
+				"ElectricCurrent"
+			],
+			[
+				"Rot",
+				"RotNo"
+			],
+			[
+				"Vert",
+				"VertY"
+			],
+			[
+				"Ver",
+				"VertX"
+			],
+			[
+				"El",
+				"ElectricCurrent"
+			],
+			[
+				"Ee",
+				"ElementID"
+			],
+			[
+				"Colu",
+				"ColumnID"
+			],
+			[
+				"mouseo",
+				"mouseoverProp"
+			],
+			[
+				"wat",
+				"walltype"
+			],
+			[
+				"cd",
+				"cdsm_column_reports"
+			],
+			[
+				"da",
+				"DailyReports"
+			],
+			[
+				"updater",
+				"updateDailyReports"
+			],
+			[
+				"up",
+				"updateERF"
+			],
+			[
+				"upd",
+				"updateDailyReports"
+			],
+			[
+				"prop",
+				"propOrder"
+			],
+			[
+				"forma",
+				"formatDate"
+			],
+			[
+				"upda",
+				"updaterERF"
+			],
+			[
+				"find",
+				"findWhere"
+			],
+			[
+				"wher",
+				"wheremsg"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"sha",
+				"sharepoint-query"
+			],
+			[
+				"call",
+				"callbacks"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"out",
+				"outerresolve"
+			],
+			[
+				"P",
+				"PERRIS_SQL_IP"
+			],
+			[
+				"on",
+				"onclose"
+			],
+			[
+				"getLa",
+				"getLastTab"
+			],
+			[
+				"getL",
+				"getLastTab"
+			],
+			[
+				"close",
+				"closeLastTab"
+			],
+			[
+				"cloas",
+				"closeLastTab"
+			],
+			[
+				"tabBar",
+				"tabBarSelector"
+			],
+			[
+				"hi",
+				"highlightPersistProp"
+			],
+			[
+				"getSt",
+				"getStrokeWeight"
+			],
+			[
+				"get",
+				"getStrokeOpacity"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"getS",
+				"getStrokeWeight"
+			],
+			[
+				"las",
+				"lastIndex"
+			],
+			[
+				"tab",
+				"tabindex"
+			],
+			[
+				"popup",
+				"popuptabindex"
+			],
+			[
+				"label",
+				"labelsVisible"
+			],
+			[
+				"toggleL",
+				"togglelabels"
+			],
+			[
+				"labelM",
+				"labelMinZoom"
+			],
+			[
+				"labe",
+				"labelMinZoom"
+			],
+			[
+				"set",
+				"setupUpdate"
+			],
+			[
+				"Docum",
+				"DocumentID"
+			],
+			[
+				"Element",
+				"ElementID"
+			],
+			[
+				"getFi",
+				"getFillColor"
+			],
+			[
+				"rb",
+				"rgba"
+			],
+			[
+				"inva",
+				"invalidAttributes"
+			],
+			[
+				"inv",
+				"invalidAttributes"
+			],
+			[
+				"item",
+				"itemKeys"
+			],
+			[
+				"sche",
+				"schemaKeys"
+			],
+			[
+				"data",
+				"dataKeys"
+			],
+			[
+				"ele",
+				"ElementID"
+			],
+			[
+				"Eleme",
+				"ElementID"
+			],
+			[
+				"task",
+				"taskinfos"
+			],
+			[
+				"SP",
+				"SPQuery"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"proces",
+				"processData"
+			],
+			[
+				"lbael",
+				"labelMarker"
+			],
+			[
+				"mou",
+				"mouseoverProp"
+			],
+			[
+				"addL",
+				"addLabelListeners"
+			],
+			[
+				"zoom",
+				"zoomend"
+			],
+			[
+				"not",
+				"notvisible"
+			],
+			[
+				"moou",
+				"mouseoverProp"
+			],
+			[
+				"lege",
+				"legendProp"
+			],
+			[
+				"getFil",
+				"getFillOpacity"
+			],
+			[
+				"getStr",
+				"getStrokeWeight"
+			],
+			[
+				"gets",
+				"getStrokeWeight"
+			],
+			[
+				"chart",
+				"chartArea"
+			],
+			[
+				"char",
+				"chartArea"
+			],
+			[
+				"query",
+				"queryurl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/js-babel/jBrew.js",
+			"settings":
+			{
+				"buffer_size": 39619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/js-babel/_lib.js",
+			"settings":
+			{
+				"buffer_size": 7277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/api/controllers/FormController.js",
+			"settings":
+			{
+				"buffer_size": 9234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/views/mixins/form.mixin.jade",
+			"settings":
+			{
+				"buffer_size": 8304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "db.form.findOne({$and: [{'collection':'waterchemistry' },{'form_id': 2}]})\n\ndb.runCommand(\n   {\n     findAndModify: \"form\",\n     query: {$and: [{'collection':'waterchemistry' },{'form_id': 2}]},\n     remove: true\n     // sort: { rating: 1 },\n\n   }\n)\n\ndb.runCommand(\n   {\n     findAndModify: \"form\",\n     query: {$and: [{'collection':'waterchemistry' },{'form_id': 4}]},\n     update: {'form_id': 2}\n   }\n)",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/api/controllers/ListController.js",
+			"settings":
+			{
+				"buffer_size": 5558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/custom.styl",
+			"settings":
+			{
+				"buffer_size": 14399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/bootstrap-extension.styl",
+			"settings":
+			{
+				"buffer_size": 7148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/tests/test.js",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix",
+				"name": "var Sails = require('sails'),"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/form-disabled.styl",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix",
+				"name": "form-disabled"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/importer.styl",
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/api/services/form-to-excel.js",
+			"settings":
+			{
+				"buffer_size": 2274,
+				"line_ending": "Unix",
+				"name": "// create .xlsx Excel file output"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/list-view.styl",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Ben/projects/app-brewer/assets/styles/inputs.styl",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Unix",
+				"name": "// style inputs"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git con",
+		"selected_items":
+		[
+			[
+				"git con",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"find",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"thie",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"keep",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"next",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"min",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"minif",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"mi",
+				"Minify::Minify File"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"conf",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"compar",
+				"Compare with..."
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"minify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"",
+				"File: New View into File"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git confli",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"git confi",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"coffeescri",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"jaba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Bower: Install"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Ben/projects/app-brewer/.tmp",
+		"/Users/Ben/projects/app-brewer/api",
+		"/Users/Ben/projects/app-brewer/api/services",
+		"/Users/Ben/projects/app-brewer/assets",
+		"/Users/Ben/projects/app-brewer/assets/js-babel",
+		"/Users/Ben/projects/app-brewer/assets/styles",
+		"/Users/Ben/projects/app-brewer/tests",
+		"/Users/Ben/projects/app-brewer/utilities",
+		"/Users/Ben/projects/app-brewer/views",
+		"/Users/Ben/projects/app-brewer/views/mixins"
+	],
+	"file_history":
+	[
+		"/Users/Ben/projects/app-brewer/data/page.json",
+		"/Users/Ben/projects/app-brewer/assets/styles/paper.styl",
+		"/Users/Ben/projects/app-brewer/package.json",
+		"/Users/Ben/projects/app-brewer/views/mixins/form.mixin.jade",
+		"/Users/Ben/projects/app-brewer/assets/styles/bootstrap-extension.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/animations.styl",
+		"/Users/Ben/projects/app-brewer/views/mixins/mixins.jade",
+		"/Users/Ben/projects/app-brewer/utilities/mixin-utils.js",
+		"/Users/Ben/projects/app-brewer/node_modules/xlsx-template/lib/index.js",
+		"/Users/Ben/projects/app-brewer/.gitignore",
+		"/Users/Ben/projects/app-brewer/views/navigation/adminpanel.jade",
+		"/Users/Ben/projects/app-brewer/assets/styles/importer.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/bootstrap/forms.styl",
+		"/Users/Ben/projects/app-brewer/api/models/Form.js",
+		"/Users/Ben/projects/app-brewer/api/controllers/ListController.js",
+		"/Users/Ben/projects/app-brewer/views/page/show.jade",
+		"/Users/Ben/projects/app-brewer/config/routes.js",
+		"/Users/Ben/projects/app-brewer/api/controllers/PageController.js",
+		"/Users/Ben/projects/app-brewer/assets/styles/custom.styl",
+		"/Users/Ben/projects/app-brewer/node_modules/jade/node_modules/with/node_modules/acorn-globals/node_modules/acorn/dist/acorn.js",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/jBrew_input.js",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/autofill.js",
+		"/Users/Ben/projects/app-brewer/data/form.json",
+		"/Users/Ben/projects/app-brewer/api/controllers/FormController.js",
+		"/Users/Ben/projects/app-brewer/assets/styles/list-view.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/colors.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/bootstrap/labels.styl",
+		"/Users/Ben/projects/app-brewer/views/partials/alert-box.jade",
+		"/Users/Ben/projects/app-brewer/views/layouts/layout.jade",
+		"/Users/Ben/projects/app-brewer/views/navigation/topbar.jade",
+		"/Users/Ben/projects/app-brewer/assets/js/jBrew.js",
+		"/Users/Ben/projects/app-brewer/assets/js/jBrew.js.map",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/layer-configs.js",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/map.js",
+		"/Users/Ben/projects/app-brewer/assets/styles/responsive.styl",
+		"/Users/Ben/projects/app-brewer/views/navigation/topbar.json",
+		"/Users/Ben/projects/app-brewer/views/ventura-gp-static/ventura-topbar.jade",
+		"/Users/Ben/projects/app-brewer/data/views/general_plan_layout2.json",
+		"/Users/Ben/projects/app-brewer/views/ventura-gp-static/layout.jade",
+		"/Users/Ben/projects/app-brewer/assets/styles/admin-panel.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/z-indexes.styl",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/custom.js",
+		"/Users/Ben/projects/app-brewer/views/navigation/top.json",
+		"/Users/Ben/projects/app-brewer/data/ventura.json",
+		"/Users/Ben/projects/app-brewer/data/views/saticoy_area_plan.json",
+		"/Users/Ben/projects/app-brewer/data/views/general_plan.json",
+		"/Users/Ben/projects/app-brewer/data/mongoimport-geo_data.sh",
+		"/Users/Ben/projects/app-brewer/data/views/mongoexport-geo_data.sh",
+		"/Users/Ben/projects/app-brewer/api/controllers/GeodataController.js",
+		"/Users/Ben/projects/app-brewer/tasks/config/stylus.js",
+		"/Users/Ben/projects/gmaps-tools/legend/legend.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/bootstrap/plugins.styl",
+		"/Users/Ben/projects/app-brewer/assets/bower_components/gmaps-tools/importer.styl",
+		"/Users/Ben/projects/app-brewer/assets/styles/bootstrap/bootstrap.styl",
+		"/Users/Ben/projects/app-brewer/tasks/pipeline.js",
+		"/Users/Ben/projects/app-brewer/tasks/config/babel.js",
+		"/Users/Ben/projects/app-brewer/assets/bower_components/gmaps-tools/layout-general/layout.styl",
+		"/Users/Ben/projects/app-brewer/assets/js-babel/basemaps.js",
+		"/Users/Ben/projects/app-brewer/assets/styles/feature-tooltip.styl",
+		"/Users/Ben/projects/app-brewer/assets/js-es5-compiled/mouseover-feature-label/index.js",
+		"/Users/Ben/projects/app-brewer/data/views/general_plan_v1.json",
+		"/Users/Ben/projects/app-brewer/.bowerrc",
+		"/Users/Ben/projects/app-brewer/config/connections.js",
+		"/Users/Ben/projects/perris-dam/data/geo/create-view-cdsm_elements_with_erf_and_reports.sql",
+		"/Users/Ben/projects/perris-dam/lib/do-update.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Column_Reports.js",
+		"/Users/Ben/projects/perris-dam/assets/js-babel/_lib.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Columns_With_Reports.js",
+		"/Users/Ben/projects/perris-dam/data/geo/create-view-cdsm_columns_with_reports.sql",
+		"/Users/Ben/projects/perris-dam/node_modules/sails-hook-schedule/api/models/CronTask.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails-hook-schedule/index.js",
+		"/Users/Ben/projects/perris-dam/config/models.js",
+		"/Users/Ben/projects/perris-dam/config/connections.js",
+		"/Users/Ben/projects/perris-dam/api/models/Crontask.js",
+		"/Users/Ben/projects/perris-dam/lib/dailyreports-updater.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Elements_With_ERF_and_Reports.js",
+		"/Users/Ben/projects/perris-dam/lib/sharepoint-api-query.js",
+		"/Users/Ben/projects/perris-dam/lib/sharepoint-query.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails-hook-schedule/schedule.js",
+		"/Users/Ben/projects/perris-dam/assets/styles/marker-labels.styl",
+		"/Users/Ben/projects/perris-dam/api/models/DailyReports.js",
+		"/Users/Ben/projects/perris-dam/api/models/Element_Record_Forms.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Elements_With_ERF.js",
+		"/Users/Ben/projects/perris-dam/config/schedule.js",
+		"/Users/Ben/projects/perris-dam/data/additional-colums-to-add-to-element_record_forms.json",
+		"/Users/Ben/projects/perris-dam/config/routes.js",
+		"/Users/Ben/projects/perris-dam/api/controllers/SP2SQLUpdaterController.js",
+		"/Users/Ben/projects/perris-dam/data/DailyReports-entry-sample.json",
+		"/Users/Ben/projects/perris-dam/lib/element-record-forms-updater.js",
+		"/Users/Ben/projects/perris-dam/lib/Queue.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Elements.js",
+		"/Users/Ben/projects/perris-dam/assets/styles/map.styl",
+		"/Users/Ben/projects/perris-dam/assets/styles/responsive.styl",
+		"/Users/Ben/projects/perris-dam/assets/js-babel/tab-manager.js",
+		"/Users/Ben/projects/perris-dam/views/partials/tabs.jade",
+		"/Users/Ben/projects/perris-dam/assets/js-babel/map.js",
+		"/Users/Ben/projects/perris-dam/assets/styles/custom.styl",
+		"/Users/Ben/projects/perris-dam/data/geo/insert-missing-element-record-form-ids.sql",
+		"/Users/Ben/.bash_profile",
+		"/Users/Ben/projects/perris-dam/node_modules/httpntlm/ntlm.js",
+		"/Users/Ben/projects/perris-dam/views/partials/map-sidebar.jade",
+		"/Users/Ben/projects/perris-dam/assets/js-es5-compiled/tab-manager.js",
+		"/Users/Ben/projects/perris-dam/assets/js-es5-compiled/tab-manager.js.map",
+		"/Users/Ben/projects/perris-dam/node_modules/sails/node_modules/anchor/node_modules/geojsonhint/node_modules/jsonlint-lines/node_modules/JSV/jsdoc-toolkit/java/classes/js.jar",
+		"/Users/Ben/projects/perris-dam/.tmp/public/js-babel/tab-manager.js",
+		"/Users/Ben/projects/perris-dam/.tmp/public/js-es5-compiled/tab-manager.js.map",
+		"/Users/Ben/projects/perris-dam/.tmp/public/js-es5-compiled/tab-manager.js",
+		"/Users/Ben/projects/perris-dam/api/controllers/GeoController.js",
+		"/Users/Ben/projects/perris-dam/tasks/register/syncAssets.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails/node_modules/waterline/lib/waterline/query/validate.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails/node_modules/waterline/lib/waterline/error/WLError.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails/node_modules/waterline/lib/waterline/error/WLValidationError.js",
+		"/Users/Ben/projects/perris-dam/node_modules/sails/node_modules/waterline/lib/waterline/error/WLValidationError.j",
+		"/Users/Ben/projects/perris-dam/config/sharepoint-api-scheduler.js",
+		"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools/layout-general/layout.styl",
+		"/Users/Ben/projects/perris-dam/node_modules/sails-hook-schedule/node_modules/node-schedule/lib/schedule.js",
+		"/Users/Ben/projects/perris-dam/api/models/CDSM_Columns.js",
+		"/Users/Ben/projects/perris-dam/api/models/Locations.js",
+		"/Users/Ben/projects/perris-dam/api/models/MonitoringWellData.js",
+		"/Users/Ben/projects/perris-dam/assets/styles/charts.styl",
+		"/Users/Ben/projects/perris-dam/config/globals.js",
+		"/Users/Ben/projects/perris-dam/tasks/register/default.js",
+		"/Users/Ben/projects/perris-dam/app.js",
+		"/Users/Ben/projects/perris-dam/api/services/element-record-forms-updater.js",
+		"/Users/Ben/projects/perris-dam/node_modules/node-sharepoint-rest/index.js",
+		"/Users/Ben/projects/perris-dam/output-data.json",
+		"/Users/Ben/projects/perris-dam/api/lib/get-model.js",
+		"/Users/Ben/projects/perris-dam/lib/sharepoint.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Ben/projects/app-brewer/assets/styles",
+			"/Users/Ben/projects/app-brewer/assets/js-no-linker",
+			"/Users/Ben/projects/app-brewer/assets/styles",
+			"/Users/Ben/projects/app-brewer",
+			"/Users/Ben/projects/app-brewer/assets/js",
+			"/Users/Ben/projects/app-brewer/assets/styles",
+			"/Users/Ben/projects/app-brewer",
+			"/Users/Ben/projects/app-brewer/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components",
+			"/Users/Ben/projects/perris-dam",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam",
+			"/Users/Ben/projects/perris-dam/api",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles",
+			"/Users/Ben/projects/perris-dam/assets/bower_components/gmaps-tools",
+			"/Users/Ben/projects/perris-dam/assets/styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sitesonde",
+			"site sonde",
+			".ind",
+			"radio",
+			"radiogroup",
+			"streamFile",
+			"sendname",
+			"afterWrite",
+			"streamFile",
+			"radiogroup",
+			"getattr",
+			"getvalue()",
+			"populateData",
+			"im()",
+			"rim()",
+			"getValue()",
+			"getvalue(",
+			"triggerValidation",
+			"updateRule",
+			"getID",
+			"getId",
+			"updateRule",
+			"getValidation",
+			"populate",
+			"populateData",
+			"updateRule",
+			"getValidation",
+			"updateRule",
+			"getValidation",
+			"updateRule",
+			"populateData",
+			"BrewInput",
+			"storeRules",
+			"populateData",
+			"storeValidation",
+			"updateRule",
+			"populateData",
+			"populate",
+			"confirmRule",
+			"populateData",
+			"storeValidation",
+			"checkValidation",
+			"Rules",
+			"rules",
+			"Rules",
+			"rules",
+			"checkValidation",
+			"EventBroadCast",
+			"class brewsection",
+			"load",
+			"triggervali",
+			"'change",
+			"ignore",
+			"'change'",
+			"ignore",
+			"EventBroadcast",
+			"ignore",
+			"console.trace",
+			"console.dir",
+			"substitutions",
+			"loadSheet",
+			"le.dir",
+			"sole.lo",
+			"util",
+			"sedimentForm",
+			"subheader",
+			"h4",
+			"section",
+			".label",
+			"white-sp",
+			".loading",
+			"section",
+			"Section",
+			"section",
+			"thumbnail",
+			".header",
+			"header",
+			"section",
+			"#d9eaf3",
+			"col-md-12",
+			"Section",
+			"section",
+			"full",
+			"nav-arro",
+			" .",
+			"av-arrow",
+			"nav-arro",
+			"arrow-",
+			"rrow-button",
+			"badge",
+			"linear",
+			"radio",
+			"nav-arr",
+			"nav-scroll-",
+			"nav-scr",
+			"badge",
+			"rm-control",
+			"section",
+			".navbar",
+			"navbar",
+			"makeBlock",
+			"elementtag = ",
+			"elementtag",
+			"headerOptions",
+			"forms",
+			"headerOptions",
+			"elementtag",
+			"header",
+			"makeRow",
+			"headerOptions",
+			"btn",
+			"ete)\n      console",
+			"updateAnchorColor",
+			"anchor = ",
+			"Anchor",
+			"anchor",
+			"change",
+			"uploadForm",
+			"upload",
+			"addSectionChangeListener",
+			"updateAnchorColor",
+			"type=\"time\"",
+			"line-height 34px",
+			"type=time",
+			"BrewPhotobutton",
+			"upload",
+			"input",
+			"attempts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"storeRules",
+			"swampForm",
+			"paper-line-color",
+			"col-xs-4",
+			"",
+			"makeBlock",
+			"\"horizontal-separator\", \"glyphicon\"",
+			"",
+			"'/images/",
+			"'images/ventura-gp-static/",
+			"",
+			" \"fillcolor\":",
+			"  ",
+			"+d[options.y]",
+			"+d[options.x]",
+			"d[options.x]",
+			"d[options.y]",
+			"options",
+			"\\n, reports.",
+			"\\n,",
+			",",
+			"  ",
+			": '",
+			"',",
+			"'float'",
+			"'string'",
+			"'integer'",
+			"type: 'datetime',",
+			"\\n\"",
+			"\"",
+			"\\n\" ",
+			"\" : ",
+			",",
+			"",
+			"\"",
+			"",
+			" : ",
+			",",
+			"",
+			": {\\n\\t\\t\\t\\ttype: ,\\n\\t\\t\\tindex: true\\n\\t\\t}",
+			", ",
+			": {\\n\\t\\t\\t\\ttype: ,\\n\\t\\t\\tindex: true\\n\\t\\t}",
+			": {\\n\\t\\t\\t\\ttype:\\s,\\n\\t\\t\\tindex:\\strue\\n\\t\\t}",
+			", ",
+			", {",
+			"');\\nINSERT INTO Element_Record_Forms (ElementID) VALUES ('",
+			"",
+			"[data-hook=",
+			"tabBar",
+			"\\t",
+			"dataKeys",
+			"type: 'string',\n// type: 'float',",
+			"type: 'string',\n// type: 'integer',",
+			"// console.log",
+			"let ",
+			"\\t",
+			"  ",
+			"",
+			"\\t",
+			"  ",
+			"$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Ben/projects/app-brewer/assets/js-babel/jBrew.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 380.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Ben/projects/app-brewer/assets/js-babel/_lib.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Ben/projects/app-brewer/api/controllers/FormController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3427,
+								3427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 2173.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Ben/projects/app-brewer/views/mixins/form.mixin.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3303,
+								3303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Ben/projects/app-brewer/api/controllers/ListController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/custom.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11480,
+								11480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/bootstrap-extension.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6645,
+								6645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4757.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/Ben/projects/app-brewer/tests/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var Sails = require('sails'),",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/form-disabled.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "form-disabled",
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/importer.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								815,
+								815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/Ben/projects/app-brewer/api/services/form-to-excel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// create .xlsx Excel file output",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 622.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/list-view.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/Ben/projects/app-brewer/assets/styles/inputs.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// style inputs",
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "insert_pictures_into_ms_office_docs.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

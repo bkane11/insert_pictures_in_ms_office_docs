@@ -1,0 +1,33 @@
+{
+  "name": "insert_pictures_in_ms_office_docs",
+  "version": "1.0.0",
+  "description": "insert pictures into ms office docs (xlsx, docx) using nodejs and python",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/test.js",
+    "postinstall": "pip install -r requirements.pip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkane11/insert_pictures_in_ms_office_docs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "python",
+    "excel",
+    "word",
+    "xlsx",
+    "docx",
+    "images",
+    "pictures"
+  ],
+  "author": "Ben Kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkane11/insert_pictures_in_ms_office_docs/issues"
+  },
+  "homepage": "https://github.com/bkane11/insert_pictures_in_ms_office_docs#readme",
+  "dependencies": {
+    "python-shell": "^0.3.0"
+  }
+}
